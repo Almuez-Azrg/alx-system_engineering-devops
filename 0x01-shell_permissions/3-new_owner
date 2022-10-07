@@ -1,2 +1,2 @@
 #!/bin/bash
-chown [OPTIONS] USER[:GROUP] FILE(s)
+chown betty hello
